@@ -1,0 +1,6 @@
+pais, poblacion, clima
+Mexico, 126M, subtropical
+USA, 336M, templado
+Rusia, 146M, polar
+Japon, 123M, templado
+
